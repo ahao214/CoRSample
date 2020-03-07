@@ -1,0 +1,7 @@
+F:\MyProgramm\VS17\CoRSample\CoRSample\CoRSample\bin\Debug\CoRSample.exe.config
+F:\MyProgramm\VS17\CoRSample\CoRSample\CoRSample\bin\Debug\CoRSample.exe
+F:\MyProgramm\VS17\CoRSample\CoRSample\CoRSample\bin\Debug\CoRSample.pdb
+F:\MyProgramm\VS17\CoRSample\CoRSample\CoRSample\obj\Debug\CoRSample.csprojAssemblyReference.cache
+F:\MyProgramm\VS17\CoRSample\CoRSample\CoRSample\obj\Debug\CoRSample.csproj.CoreCompileInputs.cache
+F:\MyProgramm\VS17\CoRSample\CoRSample\CoRSample\obj\Debug\CoRSample.exe
+F:\MyProgramm\VS17\CoRSample\CoRSample\CoRSample\obj\Debug\CoRSample.pdb
