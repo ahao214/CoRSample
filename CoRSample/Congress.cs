@@ -19,7 +19,7 @@ namespace CoRSample
         //具体请求处理方法
         public override void ProcessRequest(PurchaseRequest request)
         {
-            Console.WriteLine("董事会{0}审批采购单：{1}，金额：{2}，采购目的：{3}。", this.name, request.Number, request.Amount, request.Purpose);
+            Console.WriteLine("召开董事会审批采购单：{1}，金额：{2}，采购目的：{3}。", this.name, request.Number, request.Amount, request.Purpose);
         }
     }
 
